@@ -1,0 +1,26 @@
+{
+  "id": "/Life_RPG_preview/",
+  "name": "Life RPG — River Crossing",
+  "short_name": "Life RPG",
+  "description": "Explore River Crossing in Life RPG.",
+  "start_url": "/Life_RPG_preview/",
+  "scope": "/Life_RPG_preview/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#17140f",
+  "theme_color": "#17140f",
+  "icons": [
+    {
+      "src": "/Life_RPG_preview/assets/ui/village-icons/blacksmith-forge--idle.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Life_RPG_preview/icons/life-rpg-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

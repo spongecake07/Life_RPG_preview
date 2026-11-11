@@ -1,0 +1,207 @@
+{
+  "status": "PROVISIONAL concept-sheet crops, not independently rendered masters",
+  "source_resolution": [
+    1536,
+    1024
+  ],
+  "assets": [
+    {
+      "path": "background/forge-background.png",
+      "width": 938,
+      "height": 444,
+      "alpha": false
+    },
+    {
+      "path": "characters/garran-full.png",
+      "width": 209,
+      "height": 456,
+      "alpha": true
+    },
+    {
+      "path": "characters/expressions/garran-neutral.png",
+      "width": 149,
+      "height": 116,
+      "alpha": true
+    },
+    {
+      "path": "characters/expressions/garran-thoughtful.png",
+      "width": 150,
+      "height": 116,
+      "alpha": true
+    },
+    {
+      "path": "characters/expressions/garran-speaking.png",
+      "width": 149,
+      "height": 112,
+      "alpha": true
+    },
+    {
+      "path": "characters/expressions/garran-concerned.png",
+      "width": 150,
+      "height": 112,
+      "alpha": true
+    },
+    {
+      "path": "characters/expressions/garran-amused.png",
+      "width": 149,
+      "height": 115,
+      "alpha": true
+    },
+    {
+      "path": "characters/expressions/garran-looking-down.png",
+      "width": 150,
+      "height": 115,
+      "alpha": true
+    },
+    {
+      "path": "objects/anvil.png",
+      "width": 186,
+      "height": 110,
+      "alpha": true
+    },
+    {
+      "path": "objects/sword.png",
+      "width": 221,
+      "height": 114,
+      "alpha": true
+    },
+    {
+      "path": "objects/book-closed.png",
+      "width": 139,
+      "height": 101,
+      "alpha": true
+    },
+    {
+      "path": "objects/book-open.png",
+      "width": 190,
+      "height": 98,
+      "alpha": true
+    },
+    {
+      "path": "objects/helmet.png",
+      "width": 111,
+      "height": 106,
+      "alpha": true
+    },
+    {
+      "path": "objects/lantern.png",
+      "width": 95,
+      "height": 118,
+      "alpha": true
+    },
+    {
+      "path": "objects/mug.png",
+      "width": 98,
+      "height": 79,
+      "alpha": true
+    },
+    {
+      "path": "objects/pouch.png",
+      "width": 80,
+      "height": 82,
+      "alpha": true
+    },
+    {
+      "path": "objects/crate.png",
+      "width": 140,
+      "height": 92,
+      "alpha": true
+    },
+    {
+      "path": "objects/flowers.png",
+      "width": 126,
+      "height": 111,
+      "alpha": true
+    },
+    {
+      "path": "ui/dialogue-box.png",
+      "width": 378,
+      "height": 113,
+      "alpha": true
+    },
+    {
+      "path": "ui/choice-bar.png",
+      "width": 234,
+      "height": 112,
+      "alpha": true
+    },
+    {
+      "path": "ui/talk.png",
+      "width": 95,
+      "height": 88,
+      "alpha": true
+    },
+    {
+      "path": "ui/inspect.png",
+      "width": 92,
+      "height": 88,
+      "alpha": true
+    },
+    {
+      "path": "ui/quest.png",
+      "width": 96,
+      "height": 88,
+      "alpha": true
+    },
+    {
+      "path": "ui/back.png",
+      "width": 96,
+      "height": 88,
+      "alpha": true
+    },
+    {
+      "path": "ui/location-title.png",
+      "width": 335,
+      "height": 67,
+      "alpha": true
+    },
+    {
+      "path": "effects/fire-01.png",
+      "width": 148,
+      "height": 99,
+      "alpha": true
+    },
+    {
+      "path": "effects/fire-02.png",
+      "width": 147,
+      "height": 99,
+      "alpha": true
+    },
+    {
+      "path": "effects/fire-03.png",
+      "width": 146,
+      "height": 99,
+      "alpha": true
+    },
+    {
+      "path": "effects/fire-04.png",
+      "width": 159,
+      "height": 99,
+      "alpha": true
+    },
+    {
+      "path": "effects/embers.png",
+      "width": 155,
+      "height": 96,
+      "alpha": true
+    },
+    {
+      "path": "effects/smoke.png",
+      "width": 161,
+      "height": 98,
+      "alpha": true
+    },
+    {
+      "path": "effects/light-rays.png",
+      "width": 180,
+      "height": 99,
+      "alpha": true
+    },
+    {
+      "path": "effects/shadow.png",
+      "width": 250,
+      "height": 94,
+      "alpha": true
+    }
+  ]
+}
