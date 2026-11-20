@@ -1,0 +1,59 @@
+{
+  "source": "River Crossing approved icon concept sheet",
+  "size": 256,
+  "states": [
+    "idle",
+    "selected"
+  ],
+  "format": "transparent WebP (plus PNG fallbacks)",
+  "icons": {
+    "stag-lantern-inn": {
+      "idle": "stag-lantern-inn--idle.webp",
+      "selected": "stag-lantern-inn--selected.webp"
+    },
+    "blacksmith-forge": {
+      "idle": "blacksmith-forge--idle.webp",
+      "selected": "blacksmith-forge--selected.webp"
+    },
+    "healer": {
+      "idle": "healer--idle.webp",
+      "selected": "healer--selected.webp"
+    },
+    "market": {
+      "idle": "market--idle.webp",
+      "selected": "market--selected.webp"
+    },
+    "town-hall": {
+      "idle": "town-hall--idle.webp",
+      "selected": "town-hall--selected.webp"
+    },
+    "chapel": {
+      "idle": "chapel--idle.webp",
+      "selected": "chapel--selected.webp"
+    },
+    "mill": {
+      "idle": "mill--idle.webp",
+      "selected": "mill--selected.webp"
+    },
+    "river-docks": {
+      "idle": "river-docks--idle.webp",
+      "selected": "river-docks--selected.webp"
+    },
+    "your-home": {
+      "idle": "your-home--idle.webp",
+      "selected": "your-home--selected.webp"
+    },
+    "story": {
+      "idle": "story--idle.webp",
+      "selected": "story--selected.webp"
+    },
+    "quest": {
+      "idle": "quest--idle.webp",
+      "selected": "quest--selected.webp"
+    },
+    "map": {
+      "idle": "map--idle.webp",
+      "selected": "map--selected.webp"
+    }
+  }
+}
